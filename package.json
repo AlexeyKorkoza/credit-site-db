@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/AlexeyKorkoza/credit-site#readme",
   "dependencies": {
-    "config": "^2.0.1",
+    "config": "^3.3.8",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.38.0",
